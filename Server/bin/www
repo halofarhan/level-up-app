@@ -1,0 +1,11 @@
+if (process.env.NODE_ENV !== "production"){
+  require('dotenv').config()
+}
+const port = process.env.PORT || 3030
+
+const app = require("../app")
+
+
+app.listen(port, () => {
+  console.log(`Going to PORT ${port}`)
+})

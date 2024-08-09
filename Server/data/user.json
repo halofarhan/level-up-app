@@ -1,0 +1,8 @@
+[
+  {
+    "email": "test@mail.com",
+    "password": "test",
+    "isMember": true,
+    "isProfile": true
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "day": 1,
+    "bodyPart": "chest"
+  },
+  {
+    "day": 2,
+    "bodyPart": "upper arms"
+  },
+  {
+    "day": 3,
+    "bodyPart": "back"
+  },
+  {
+    "day": 4,
+    "bodyPart": "upper legs"
+  },
+
+  {
+    "day": 5,
+    "bodyPart": "shoulder"
+  },
+  {
+    "day": 6,
+    "bodyPart": "cardio"
+  },
+  {
+    "day": 7,
+    "bodyPart": "rest"
+  }
+]

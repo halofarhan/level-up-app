@@ -1,0 +1,11 @@
+[
+  {
+    "username": "test",
+    "height": 175,
+    "weight": 70,
+    "gender": "male",
+    "age": 22,
+    "program": "bulking",
+    "UserId": 1
+  }
+]
